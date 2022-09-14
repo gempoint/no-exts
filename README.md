@@ -6,4 +6,6 @@ HAHAHAHAHAH
 chrome.management.getAll(a => a.filter(e => e.installType === 'admin').forEach(e => chrome.management.setEnabled(e.id,!1)))
 ```
 
-[website](https://caiorss.github.io/bookmarklet-maker/)
+[generate bookmark here](https://caiorss.github.io/bookmarklet-maker/)
+
+go [here](https://chrome.google.com/webstorex) and execute bookmark
