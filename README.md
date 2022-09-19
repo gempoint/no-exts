@@ -1,6 +1,8 @@
 # no-exts
 HAHAHAHAHAH
 
+PRE ORDER BLACK RUBY TODAY
+
 ## normal code
 ```ts
 chrome.management.getAll(a => a.filter(e => e.installType === 'admin').forEach(e => chrome.management.setEnabled(e.id,!1)))
